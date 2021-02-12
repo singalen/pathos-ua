@@ -1,26 +1,26 @@
 ﻿AfflictionDescription,Deadly venom courses through your veins.,По твоїм жилам тече смертельна отрута.
-AfflictionDescription,Something deeply unsettling is happening... down there.,"Відбувається щось дуже неприємне... отут, унизу."
-AfflictionDescription,There is a gnawing sensation from deep inside your stomach.,У вас в шлунку немовби щось гризе.
-AfflictionDescription,This viral disease causes inflammation of the brain and is spread by infected animals.,Це хвороба викликає запалення мозку та передається зараженими тваринами.
+AfflictionDescription,Something deeply unsettling is happening... down there.,"Відбувається щось дуже неприємне... отам, унизу."
+AfflictionDescription,There is a gnawing sensation from deep inside your stomach.,У вас у шлунку немовби щось гризе.
+AfflictionDescription,This viral disease causes inflammation of the brain and is spread by infected animals.,Ця хвороба викликає запалення мозку та передається зараженими тваринами.
 AfflictionDescription,You feel unclean and everything itches.,"Ви почуваєтеся брудним, і у вас все чухається."
 AfflictionDescription,You have a dreadful case of stomach acid.,У вас жахлива печія.
-AfflictionDescription,Your skin is sickly green and something is very wrong inside your stomach.,"Ваша шкіра позеленіла, і зі шлунком щось пішло дуже не так."
+AfflictionDescription,Your skin is sickly green and something is very wrong inside your stomach.,"Ваша шкіра позеленіла, і у шлунку щось пішло дуже не так."
 AfflictionName,crabs,краби
 AfflictionName,nits,вші
 AfflictionName,poisoning,отруєння
 AfflictionName,rabies,сказ
 AfflictionName,reflux,рефлюкс
-AfflictionName,sliming,сходити слизом
+AfflictionName,sliming,сходить слизом
 AfflictionName,worms,глисти
 AppearanceDescription,A long cloak which is open in the front and fastened at the breast with a clasp.,"Довгий плащ, відкритий спереду, із застібкою на грудях"
 AppearanceDescription,A short but sturdy looking coat of mithril armour.,"Короткий, але міцний міфріловий обладунок."
 AppearanceDescription,A slender and delicate looking coat of mithril armour.,Тонкий і делікатний міфріловий обладунок.
 AppearanceDescription,A slender and glossy looking coat of mithril armour.,Тонкий глянсовий міфріловий обладунок.
-AppearanceDescription,This classic wizard accessory is a pointed hat decorated with moons and stars.,"Ккласичний аксесуар чарівника: загострений капелюх, прикрашений місяцем і зірками."
+AppearanceDescription,This classic wizard accessory is a pointed hat decorated with moons and stars.,"Класичний аксесуар чарівника: загострений капелюх, прикрашений місяцем і зірками."
 AppearanceName,agate ring,агатова каблучка
 AppearanceName,aluminium wand,алюмінієва паличка
-AppearanceName,angled poleaxe,вуглова сокира
-AppearanceName,bag,торба
+AppearanceName,angled poleaxe,полекс
+AppearanceName,bag,сумка
 AppearanceName,balsa wand,бальзова паличка
 AppearanceName,bamboo arrow,бамбукова стріла
 AppearanceName,bamboo wand,бамбукова паличка
@@ -43,7 +43,7 @@ AppearanceName,blue robe,синя роба
 AppearanceName,bone staff,костяний посох
 AppearanceName,brass ring,латунна каблучка
 AppearanceName,brass wand,латунна паличка
-AppearanceName,brilliant blue potion,діамантово-синне зілля
+AppearanceName,brilliant blue potion,діамантово-синє зілля
 AppearanceName,broad pick,широка кирка
 AppearanceName,broad short sword,широкий короткий меч
 AppearanceName,bronze bell,бронзовий дзвіночок
@@ -61,7 +61,7 @@ AppearanceName,clay ring,глиняна каблучка
 AppearanceName,clear potion,прозоре зілля
 AppearanceName,cloth book,тканинна книжка
 AppearanceName,cloudy potion,хмарне зілля
-AppearanceName,coarse mantelet,груба мантія
+AppearanceName,coarse mantelet,груба мантілья
 AppearanceName,colourful book,різнокольорова книжка
 AppearanceName,combat boots,бойові чоботи
 AppearanceName,compact gun,компактний пістолет
@@ -82,7 +82,7 @@ AppearanceName,crude short sword,грубий короткий меч
 AppearanceName,crude spear,грубий спис
 AppearanceName,crystal staff,кришталевий посох
 AppearanceName,crystal wand,кришталева паличка
-AppearanceName,curved polearm,
+AppearanceName,curved polearm,вигнутий дрюк
 AppearanceName,curved sword,вигнутий меч
 AppearanceName,curved wand,вигнута паличка
 AppearanceName,cyan book,синьо-зелена книжка
@@ -141,9 +141,9 @@ AppearanceName,heavy gun,важкий пістолет
 AppearanceName,hexagonal amulet,шестигранний амулет
 AppearanceName,hexagonal wand,шестигранна паличка
 AppearanceName,hiking boots,похідні чоботи
-AppearanceName,hilted polearm,держак з накінечником
+AppearanceName,hilted polearm,рунка
 AppearanceName,hooded cloak,плащ з капюшоном
-AppearanceName,hooked polearm,спис з гаком
+AppearanceName,hooked polearm,біл-гвізарма
 AppearanceName,horn,горн
 AppearanceName,horseshoe,підкова
 AppearanceName,icy potion,крижане зілля
@@ -171,7 +171,7 @@ AppearanceName,long barrelled gun,довгоствольний пістолет
 AppearanceName,long book,довга книга
 AppearanceName,long bow,довний лук
 AppearanceName,long gun,довгий пістолет
-AppearanceName,long poleaxe,довга сокира
+AppearanceName,long poleaxe,довгий полекс
 AppearanceName,long samurai sword,довгий самурайський меч
 AppearanceName,long wand,довга паличка
 AppearanceName,luminescent potion,зілля що світиться
@@ -225,10 +225,10 @@ AppearanceName,plastic slug,пластикова болванка
 AppearanceName,plastic stick,пластикова палка
 AppearanceName,platinum wand,платинова паличка
 AppearanceName,plumed helmet,шолом із плюмажем
-AppearanceName,pole cleaver,держак із клинком сокири
-AppearanceName,pole sickle,держак із серповидным клинком
+AppearanceName,pole cleaver,вульж
+AppearanceName,pole sickle,бойова коса
 AppearanceName,polished silver shield,полірований срібний щит
-AppearanceName,pronged polearm,держак з зубчастим молотком
+AppearanceName,pronged polearm,бойові вила
 AppearanceName,pruning hook,держак із кривим клинком
 AppearanceName,puce potion,червонувато-коричневе зілля
 AppearanceName,purple book,пурпурна книжка
@@ -296,7 +296,7 @@ AppearanceName,silver book,срібна книжка
 AppearanceName,silver ring,срібна каблучка
 AppearanceName,silver slug,срібна болванка
 AppearanceName,silver wand,срібна паличка
-AppearanceName,single-edged polearm,держак з клинком
+AppearanceName,single-edged polearm,нагіната
 AppearanceName,sky blue potion,небесно-синє зілля
 AppearanceName,slippery cloak,санний плащ
 AppearanceName,small gun,малий пістолет
@@ -324,7 +324,7 @@ AppearanceName,thick book,товстка книга
 AppearanceName,thin book,тонка книга
 AppearanceName,thin cake,тонкий торт
 AppearanceName,thonged club,кийок з ременем
-AppearanceName,three-pointed polearm,
+AppearanceName,three-pointed polearm,спис-тризуб
 AppearanceName,throwing axe,метальна сокирка
 AppearanceName,throwing spear,метальний спис
 AppearanceName,throwing star,метальна зірочка
@@ -343,7 +343,7 @@ AppearanceName,velvet book,вельветова книга
 AppearanceName,violet book,фіолетова книга
 AppearanceName,violet gem,фіолетовий самоцвіт
 AppearanceName,visored helmet,шолом з забралом
-AppearanceName,vulgar polearm,древко з пласким наконечником
+AppearanceName,vulgar polearm,звичайний протазан
 AppearanceName,walking shoes,прогулянкові черевики
 AppearanceName,warped amulet,викривлений амулет
 AppearanceName,wedding ring,обручку
@@ -514,156 +514,156 @@ ChangeType,increase,збільшення
 CharacterName,Adebesi,Адебесі
 CharacterName,Alista,Алиста
 CharacterName,Amaya,Амая
-CharacterName,Arnoken,
-CharacterName,Arrom,
+CharacterName,Arnoken,Арнокен
+CharacterName,Arrom,Арром
 CharacterName,Atral,Атраль
 CharacterName,Atrya,Атрія
 CharacterName,Bartist,Бартист
-CharacterName,Bason,
+CharacterName,Bason,Бейсон
 CharacterName,Belietha,Белієта
 CharacterName,Bok,Бок
 CharacterName,Bolan,Болан
-CharacterName,Brouwer,
+CharacterName,Brouwer,Браулер
 CharacterName,Cailie,Кайлі
 CharacterName,Capo,Капо
 CharacterName,Carthyre,Катерина
 CharacterName,Cazedda,Казедда
 CharacterName,Chemron,Чемрон
 CharacterName,Cheyne,Чейн
-CharacterName,Choung,
-CharacterName,Crepsal,
+CharacterName,Choung,Чоунг
+CharacterName,Crepsal,Крепсал
 CharacterName,Damano,дама
-CharacterName,Daracy,
-CharacterName,Davicohr,
-CharacterName,Donneller,
+CharacterName,Daracy,Дерейсі
+CharacterName,Davicohr,Давікоер
+CharacterName,Donneller,Доннеллер
 CharacterName,D'rey,Д’рей
 CharacterName,Dug,Даг
 CharacterName,Elishmeli,Елішмелі
 CharacterName,Ellent,Еллент
 CharacterName,Emina,Єміна
-CharacterName,Enlan,
-CharacterName,Ericendrick,
+CharacterName,Enlan,Енлан
+CharacterName,Ericendrick,Ерікендрік
 CharacterName,Eybrinde,Ейбрінд
 CharacterName,Faraze,Фараз
-CharacterName,Fenlas,
-CharacterName,Fenraymond,
+CharacterName,Fenlas,Фенлас
+CharacterName,Fenraymond,Фенреймонд
 CharacterName,Floki,Флокі
-CharacterName,Forro,
+CharacterName,Forro,Форро
 CharacterName,Franzia,Франчія
-CharacterName,Galday,
+CharacterName,Galday,Галдай
 CharacterName,Gasberg,Гасберг
-CharacterName,Gleichman,
+CharacterName,Gleichman,Глейхман
 CharacterName,Gmima,Гміма
-CharacterName,Gohu,
+CharacterName,Gohu,Гоху
 CharacterName,Gomack,Гомак
 CharacterName,Grytt,Грітті
-CharacterName,Haelom,
+CharacterName,Haelom,Хейлом
 CharacterName,Haique,Хаік’ю
 CharacterName,Haquian,Хакіан
-CharacterName,Hendrick,
+CharacterName,Hendrick,Хендрік
 CharacterName,Hough,Хаф
 CharacterName,Illitasha,Ілліташа
 CharacterName,Ishgood,Ішгуд
-CharacterName,Istophe,
+CharacterName,Istophe,Історн
 CharacterName,Isylav,Ісілав
-CharacterName,Izamiller,
+CharacterName,Izamiller,Ізаміллер
 CharacterName,Javarl,Джаварл
-CharacterName,Jayenason,
+CharacterName,Jayenason,Джайєнасон
 CharacterName,Jeem,Джім
 CharacterName,Jessera,Джессера
-CharacterName,Jonat,
+CharacterName,Jonat,Джонат
 CharacterName,Karbri,Карбрі
-CharacterName,Kennold,
-CharacterName,Kevugo,
+CharacterName,Kennold,Кеннолд
+CharacterName,Kevugo,Кевуго
 CharacterName,Kierantha,Кієранта
 CharacterName,Kira,Кіра
-CharacterName,Kneller,
+CharacterName,Kneller,Кнеллер
 CharacterName,Lagratha,Лаграза
-CharacterName,Lanetwalz,
+CharacterName,Lanetwalz,Ланетвальз
 CharacterName,Lant,Лент
 CharacterName,Lesha,Льоша
-CharacterName,Luickean,
-CharacterName,Lzay,
+CharacterName,Luickean,Льюкеан
+CharacterName,Lzay,Лзай
 CharacterName,Malasuth,Маласус
 CharacterName,Marisa,Марися
 CharacterName,Melchai,Мелчай
 CharacterName,Meloty,Мелоті
-CharacterName,Miller,
-CharacterName,Misteph,
-CharacterName,Nichaeltoy,
+CharacterName,Miller,Міллер
+CharacterName,Misteph,Містеф
+CharacterName,Nichaeltoy,Нічєлтой
 CharacterName,Ninerma,Нієрма
-CharacterName,Ninhart,
+CharacterName,Ninhart,Нінхарт
 CharacterName,Ninny,Нінні
-CharacterName,Nodin,
+CharacterName,Nodin,Нодін
 CharacterName,Norbant,Норбант
-CharacterName,Okennwood,
+CharacterName,Okennwood,Окенвуд
 CharacterName,Ollac,Оллак
-CharacterName,Omdarro,
-CharacterName,Orankin,
+CharacterName,Omdarro,Омдарро
+CharacterName,Orankin,Оранкін
 CharacterName,Oscae,Оскайє
 CharacterName,Paltrick,Палтрік
-CharacterName,Pauwinner,
+CharacterName,Pauwinner,Паувіннер
 CharacterName,Penevieve,Пеневь’єва
 CharacterName,Perceval,Персеваль
 CharacterName,Pinkerton,Пінкертон
 CharacterName,Plegg,Плегг
-CharacterName,Pleyson,
+CharacterName,Pleyson,Плейсон
 CharacterName,Pnerfa,Нерф
 CharacterName,Poe,По
-CharacterName,Quamma,
+CharacterName,Quamma,Квамма
 CharacterName,Quandon,Куандон
 CharacterName,Quarah,Кварах
 CharacterName,Quibb,Квібб
-CharacterName,Quizchak,
-CharacterName,Quohnrupley,
+CharacterName,Quizchak,Квіжчак
+CharacterName,Quohnrupley,Квонраплі
 CharacterName,Rambrant,Рембрант
 CharacterName,Raugarr,Рогарр
 CharacterName,Razz,Разз
 CharacterName,Rebenna,Ребенна
-CharacterName,Renorber,
+CharacterName,Renorber,Ренорбер
 CharacterName,Rokiju,Рок’ю
-CharacterName,Rupley,
+CharacterName,Rupley,Раплі
 CharacterName,Sarlia,Сарлія
 CharacterName,Shinaas,Шінаас
-CharacterName,Smither,
-CharacterName,Stevere,
-CharacterName,Stewite,
+CharacterName,Smither,Смізер
+CharacterName,Stevere,Стівенре
+CharacterName,Stewite,Стювіт
 CharacterName,Sully,Саллі
 CharacterName,Talon,Талон
 CharacterName,Tanyacka,Таньячка
-CharacterName,Thakuline,
-CharacterName,Threepo,
-CharacterName,Timonen,
+CharacterName,Thakuline,Такулін
+CharacterName,Threepo,Тріпо
+CharacterName,Timonen,Тімотен
 CharacterName,Trank,Тренк
-CharacterName,Udfoot,
+CharacterName,Udfoot,Удфут
 CharacterName,Uffle,Аффл
-CharacterName,Ujopayne,
+CharacterName,Ujopayne,Уджопайне
 CharacterName,Umazi,Умазі
-CharacterName,Urenval,
+CharacterName,Urenval,Уренваль
 CharacterName,Valorn,Валорн
-CharacterName,Vekincarc,
-CharacterName,Vidar,
-CharacterName,Vikethome,
+CharacterName,Vekincarc,Векінсарк
+CharacterName,Vidar,Відар
+CharacterName,Vikethome,Вікетоме
 CharacterName,Viophie,Віофія
 CharacterName,Vorzian,Ворзіям
-CharacterName,Wallison,
+CharacterName,Wallison,Валлісон
 CharacterName,Waltis,Уолтіс
-CharacterName,Walzen,
+CharacterName,Walzen,Вальзен
 CharacterName,Wendry,Вендрі
-CharacterName,Wollet,
+CharacterName,Wollet,Воллет
 CharacterName,Xamarin,Ксамарін
-CharacterName,Xandries,
-CharacterName,Xank,
+CharacterName,Xandries,Ксандріс
+CharacterName,Xank,Ксанк
 CharacterName,Xantari,Ксантари
-CharacterName,Xarrung,
+CharacterName,Xarrung,Ксарруг
 CharacterName,Xiolet,Ксайолет
-CharacterName,Yarromdee,
+CharacterName,Yarromdee,Йарромді
 CharacterName,Yassage,Йассаж
 CharacterName,Yorque,Йорг
-CharacterName,Yral,
-CharacterName,Yuvaloren,
-CharacterName,Zean,
-CharacterName,Zerbarry,
+CharacterName,Yral,Йрал
+CharacterName,Yuvaloren,Ювалорен
+CharacterName,Zean,Зіан
+CharacterName,Zerbarry,Зерберрі
 CharacterName,Zimn,Зімн
 CharacterName,Zonagan,Зонаган
 CharacterName,Zultry,Зултрі
@@ -814,7 +814,7 @@ CounterName,divines,ворожує
 CounterName,drinks,п'є
 CounterName,eats,їсть
 CounterName,empties,вивантажує
-CounterName,exchanges,
+CounterName,exchanges,обмінює
 CounterName,flashes,спалахує
 CounterName,hatches,вилуплюється
 CounterName,hides,ховається
@@ -833,7 +833,7 @@ CounterName,prays,карає
 CounterName,punishments,покарань
 CounterName,quaffs,випиває
 CounterName,reads,читає
-CounterName,reclines,
+CounterName,reclines,відкидається
 CounterName,refills,доповнює
 CounterName,releases,випускає
 CounterName,renames,перейменувує
@@ -856,7 +856,7 @@ CounterName,throws,кидки
 CounterName,traps,пастки
 CounterName,traversals,обходи
 CounterName,tunnels,тунелі
-CounterName,untraps,
+CounterName,untraps,розмінує
 CounterName,violations,осквернення
 CounterName,waits,очікує
 CounterName,writes,пише
@@ -1002,7 +1002,7 @@ EffectProperty,unpunishes,знімає покарання
 EffectProperty,whole stack,заповнити повністю
 EffectProperty,zoo,зоопарк
 EffectType,abuse,образа
-EffectType,adjust difficulty,
+EffectType,adjust difficulty,змінити рівень складності
 EffectType,afflict,пороблено
 EffectType,alert,тривога
 EffectType,amnesia,амнезія
@@ -1046,7 +1046,7 @@ EffectType,enchant asset,заклинає цінність
 EffectType,energise,живить енергією
 EffectType,engulf,проковтує
 EffectType,enlightenment,просвітлює
-EffectType,exchange,
+EffectType,exchange,обміняти
 EffectType,exercise,тренує
 EffectType,gain level,отримує рівень
 EffectType,gain resistance,отримує стійкість:
@@ -1092,7 +1092,7 @@ EffectType,rumour,чутка
 EffectType,sacrifice,приносить в жертву
 EffectType,sanctify,освячує
 EffectType,searching,шукає
-EffectType,sleep,
+EffectType,sleep,спить
 EffectType,spawn character,породжує персонажа
 EffectType,steal,краде
 EffectType,summon entity,закликає істота
@@ -1108,7 +1108,7 @@ EffectType,unpunish,відмінити покарання
 EffectType,visit shop,відвідати крамницю
 EffectType,visit shrine,відвідати святилище
 EffectType,visit zoo,відвідати зоопарк
-EffectType,warping,
+EffectType,warping,скручує
 EggName,black dragon,чорний дракон
 EggName,blue dragon,синій дракон
 EggName,deep dragon,глибинний дракон
@@ -1194,17 +1194,17 @@ EntityName,adult white dragon,білий дракон
 EntityName,adult yellow dragon,жовтий дракон
 EntityName,air elemental,повітряний елементаль
 EntityName,Aleax,Елікс
-EntityName,ancient black dragon,
-EntityName,ancient blue dragon,
-EntityName,ancient deep dragon,
-EntityName,ancient green dragon,
-EntityName,ancient grey dragon,
-EntityName,ancient orange dragon,
-EntityName,ancient red dragon,
-EntityName,ancient shimmering dragon,
-EntityName,ancient silver dragon,
-EntityName,ancient white dragon,
-EntityName,ancient yellow dragon,
+EntityName,ancient black dragon,давній чорний дракон
+EntityName,ancient blue dragon,давній синій дракон
+EntityName,ancient deep dragon,давній глибинний дракон
+EntityName,ancient green dragon,давній зелений дракон
+EntityName,ancient grey dragon,давній сірий дракон
+EntityName,ancient orange dragon,давній помаранчевий дракон
+EntityName,ancient red dragon,давній червоний дракон
+EntityName,ancient shimmering dragon,давній помаранчевий дракон
+EntityName,ancient silver dragon,давній срібний дракон
+EntityName,ancient white dragon,давній білий дракон
+EntityName,ancient yellow dragon,давній жовтий дракон
 EntityName,angel,ангел
 EntityName,animate object,анімувати предмет
 EntityName,ape,мавпа
@@ -1282,7 +1282,7 @@ EntityName,carrion crawler,що повзає падальник
 EntityName,caterwaul,котячий виття
 EntityName,catoblepas,катоблепас
 EntityName,cave spider,печерний павук
-EntityName,cave troll,
+EntityName,cave troll,печерний троль
 EntityName,centipede,багатоніжка
 EntityName,Cerberus,Цербер
 EntityName,chameleon,хамелеон
@@ -1353,7 +1353,7 @@ EntityName,dwarf zombie,зомбі-дварф
 EntityName,Earendil,Еаренділь
 EntityName,earth elemental,земляний елементаль
 EntityName,earth mage,маг землі
-EntityName,echo,
+EntityName,echo,ехо
 EntityName,efreeti,іфріт
 EntityName,electric eel,електричний вугор
 EntityName,elephant,слон
@@ -1413,7 +1413,7 @@ EntityName,giant cockroach,гігантський тарган
 EntityName,giant crab,гігантський краб
 EntityName,giant eel,гігантський вугор
 EntityName,giant flea,гігантська блоха
-EntityName,giant frog,
+EntityName,giant frog,гігантська жаба
 EntityName,giant king,велетень-король
 EntityName,giant louse,гігантська воша
 EntityName,giant mimic,гігантський мімік
@@ -1421,7 +1421,7 @@ EntityName,giant mummy,мумія велетня
 EntityName,giant rat,гігантський щур
 EntityName,giant scorpion,гігантський скорпіон
 EntityName,giant shoggoth,гігантський шоггот
-EntityName,giant slug,
+EntityName,giant slug,гігантський слимак
 EntityName,giant spider,гігантський павук
 EntityName,giant termite,гігантський терміт
 EntityName,giant tick,гігантський кліщ
@@ -1654,7 +1654,7 @@ EntityName,Pelias,Пелій
 EntityName,Pestilence,Мор
 EntityName,phase spider,фазовий павук
 EntityName,phase worm,фазовий черв’як
-EntityName,pig,
+EntityName,pig,свиня
 EntityName,pile of killer coins,жменю монет-убивць
 EntityName,piranha,піранья
 EntityName,pit bull,пітбуль
@@ -1704,7 +1704,7 @@ EntityName,salamander,саламандра
 EntityName,sandestin,сандестін
 EntityName,sapphire golem,сапфіровий голем
 EntityName,sasquatch,снігова людина
-EntityName,satyr,
+EntityName,satyr,сатир
 EntityName,scorpion,скорпіон
 EntityName,Scorpius,Скорпіус
 EntityName,scramper,скрампер
@@ -1828,17 +1828,17 @@ EntityName,yellow mould,жовта цвіль
 EntityName,yeoman,йомен
 EntityName,yeoman warder,йомен-стражник
 EntityName,yeti,йєті
-EntityName,young black dragon,
-EntityName,young blue dragon,
-EntityName,young deep dragon,
-EntityName,young green dragon,
-EntityName,young grey dragon,
-EntityName,young orange dragon,
-EntityName,young red dragon,
-EntityName,young shimmering dragon,
-EntityName,young silver dragon,
-EntityName,young white dragon,
-EntityName,young yellow dragon,
+EntityName,young black dragon,молодий чорний дракон
+EntityName,young blue dragon,молодий синій дракон
+EntityName,young deep dragon,молодий глибинний дракон
+EntityName,young green dragon,молодий зелений дракон
+EntityName,young grey dragon,молодий сірий дракон
+EntityName,young orange dragon,молодий помаранчевий дракон
+EntityName,young red dragon,молодий червоний дракон
+EntityName,young shimmering dragon,молодий мерехтливий дракон
+EntityName,young silver dragon,молодий срібний дракон
+EntityName,young white dragon,молодий білий дракон
+EntityName,young yellow dragon,молодий жовтий дракон
 EntityName,zruty,зруті
 EquipAction,employ,використовувати
 EquipAction,purse,до гаманця
@@ -1876,11 +1876,11 @@ ExplosionName,muddy,грязьовий
 ExplosionName,watery,водяний
 FeatureDescription,This well-worn table is imbued with the ancient magics of creation and destruction.,Цей обшарпаний стіл просякнутий древньої магією творення і руйнування.
 FeatureName,altar,вівтар
-FeatureName,bed,
+FeatureName,bed,ліжко
 FeatureName,fountain,фонтан
 FeatureName,grave,могила
 FeatureName,pentagram,пентаграма
-FeatureName,sarcophagus,
+FeatureName,sarcophagus,саркофаг
 FeatureName,stall,кіоск
 FeatureName,throne,трон
 FeatureName,workbench,верстак
@@ -1947,14 +1947,14 @@ FormatText,{CharacterName} gained the talent of {PropertyName},{CharacterName} �
 FormatText,{CharacterName} had already identified all items,всі речі {CharacterName} вже пізнані
 FormatText,{CharacterName} has {Percent}% {ElementName} resistance,{CharacterName} стійкий на {Percent}% до: {ElementName}
 FormatText,{CharacterName} has {PropertyName},{CharacterName} отримує {PropertyName}
-FormatText,{CharacterName} has already achieved {GenderHis} karmic potential,
+FormatText,{CharacterName} has already achieved {GenderHis} karmic potential,{CharacterName} вже має максимум свого кармічного потенціалу
 FormatText,{CharacterName} has decreased {AttributeName} by {ModifierNumber},{AttributeName} у {CharacterName} зменшилася на {ModifierNumber}
 FormatText,{CharacterName} has decreased life by {ModifierNumber},здоров'я у {CharacterName} зменшилася на {ModifierNumber}
 FormatText,{CharacterName} has decreased mana by {ModifierNumber},мана у {CharacterName} зменшилася на {ModifierNumber}
 FormatText,{CharacterName} has increased {AttributeName} by {ModifierNumber},{CharacterName} збільшує {AttributeName} на {ModifierNumber}
 FormatText,{CharacterName} has increased life by {ModifierNumber},здоров'я {CharacterName} збільшується на {ModifierNumber}
 FormatText,{CharacterName} has increased mana by {ModifierNumber},мана {CharacterName} збільшується на {ModifierNumber}
-FormatText,{CharacterName} has poor {AttributeName} and is unable to {ActionName},
+FormatText,{CharacterName} has poor {AttributeName} and is unable to {ActionName},У {CharacterName} бракує {AttributeName} щоб {ActionName}
 FormatText,{CharacterName} identified {AssetName},{CharacterName} пізнає {AssetName}
 FormatText,{CharacterName} improved efficiency with {SpellName},{CharacterName} покращує володіння {SpellName}
 FormatText,{CharacterName} Inventory,список речей {CharacterName}
@@ -2161,17 +2161,17 @@ HordeName,yeoman,йомен
 HordeName,zombie,зомбі
 IdentifyTypeName,All,Все
 IdentifyTypeName,One,Один
-ItemDescription,A cloth mask that completely obstructs the wearer's vision.,
+ItemDescription,A cloth mask that completely obstructs the wearer's vision.,"Маска з тканини, що повністю блокує зір носія."
 ItemDescription,"A collection of utensils, including empty tins and butchering tools, for packing corpses so as to condense them.",
-ItemDescription,A compact hand-held firearm.,
+ItemDescription,A compact hand-held firearm.,Компактна ручна вогнепальна зброя.
 ItemDescription,"A curved single-edged blade often used by cavalry, especially effective against creatures of the netherworld.",
-ItemDescription,"A curved yellow fruit, and a great source of fibre.",
+ItemDescription,"A curved yellow fruit, and a great source of fibre.","Округлий фрукт, чудове джерело клітчатки."
 ItemDescription,"A flat throwing weapon made of wood, often used for hunting.",
 ItemDescription,"A flat, round cake. Cooked in a pan, as you might presume.",
 ItemDescription,A foreign device which creates perfect visual depictions of reality.,
-ItemDescription,A hand-held brass horn.,
+ItemDescription,A hand-held brass horn.,Ручний мідний горн.
 ItemDescription,"A hard rock, smooth and therefore aerodynamic.",
-ItemDescription,A hardwood pole. It is an unassuming but formidable weapon in trained hands.,
+ItemDescription,A hardwood pole. It is an unassuming but formidable weapon in trained hands.,"Дрючок з твердого дерева. Без претензій, але стає грізною зброєю у вмілих руках."
 ItemDescription,"A hearty, multi-portioned and nutritious vegetarian meal.",
 ItemDescription,"A heavy and long double-edged blade. Similar to a long sword, scaled-up specifically for two-handed usage.",
 ItemDescription,A heavy iron hammer designed specifically for use in melee combat.,"Важкий залізний молот, розроблений спеціально для ближнього бою."
@@ -2182,12 +2182,12 @@ ItemDescription,"A leather pouch set between two cords, meant for launching smal
 ItemDescription,"A lightweight protective panel strapped to the forearm, made from wood with metal reinforcement.",
 ItemDescription,"A long iron knife with a sharp tip, weighted for throwing.","Довгий залізний ніж, добре збалансований для метання."
 ItemDescription,A long pipe meant for shooting darts through force of breath.,
-ItemDescription,A long thrusting polearm best suited to mounted combat.,Спис з довгим держаком найбільш придатний для бою верхи.
+ItemDescription,A long thrusting polearm best suited to mounted combat.,Спис із довгим держаком найбільш придатний для бою верхи.
 ItemDescription,"A long, flexible leather thong. Unexpectedly sharp.",
 ItemDescription,"A long, flowing garment, with long sleeves and a hood.",
 ItemDescription,A long-shafted arrow with a distinctive tip.,
-ItemDescription,A mace that is spiked on its head.,
-ItemDescription,A meal made from the stomach lining of an animal.,
+ItemDescription,A mace that is spiked on its head.,Булава зі шпичаками.
+ItemDescription,A meal made from the stomach lining of an animal.,Страва з рубленого шлунку тварини.
 ItemDescription,A pair of sturdy leather boots which extend upward until just below the knee.,
 ItemDescription,A pair of sturdy leather boots which extend upwards to just above the ankle.,
 ItemDescription,"A pointed iron bar fashioned at a right-angle to a sturdy wooden handle, used to pierce through hard surfaces.",
@@ -2208,11 +2208,11 @@ ItemDescription,A small missile with a reservoir of liquid delivered through a h
 ItemDescription,"A soft-brimmed hat, somewhat out of fashion.",
 ItemDescription,A sophisticated bludgeon with a heavy iron head.,
 ItemDescription,A spacious bag made of incredibly stretchy cotton.,
-ItemDescription,A spacious cloth bag.,
-ItemDescription,A stick of cured meat.,
+ItemDescription,A spacious cloth bag.,Велика полотняна сумка.
+ItemDescription,A stick of cured meat.,Палка в’яленої ковбаси.
 ItemDescription,"A stick of highly explosive material, with a short fuse on one end.",
 ItemDescription,"A straight, double-edged, and often cruciform blade.",
-ItemDescription,A sturdy and solid mineral.,
+ItemDescription,A sturdy and solid mineral.,Важкий міцний мінерал.
 ItemDescription,A suit of armour made from metal rings sewn onto a foundation of leather or cloth.,"Кольчатий обладунок складається з тканинної або шкіряної основи, на яку нашиті металеві кільця."
 ItemDescription,"A surviving portion of the legendary wall of Verimurus, an ancient elven city said to have lasted since time immemorial. However, not even the mightiest walls could withstand the endless onslaught of the dragons. Now the enchanted walls stand alone over the land that once held them.",
 ItemDescription,"A sweet citrus fruit, coloured eponymously.",
@@ -2304,7 +2304,7 @@ ItemName,amulet of vitality,амулет життєвої сили
 ItemName,amulet versus poison,амулет опору до отрути
 ItemName,amulet versus stone,амулет опору до скам'яніння
 ItemName,Ancient Katana,Прадавня Катана
-ItemName,animal corpse,
+ItemName,animal corpse,труп тварини
 ItemName,apple,яблуко
 ItemName,aquamarine,аквамарин
 ItemName,arrow,стріла
@@ -2323,10 +2323,10 @@ ItemName,battle robe,бойова роба
 ItemName,battle-axe,бойова сокира
 ItemName,beartrap,ведмежий капкан
 ItemName,bec de corbin,клевець
-ItemName,bell of harmony,
+ItemName,bell of harmony,дзвіночок гармонії
 ItemName,bell of resources,дзвіночок ресурсів
 ItemName,bell of secrets,дзвіночок таємниць
-ItemName,bell of strife,
+ItemName,bell of strife,дзвіночок незгоди
 ItemName,bill-guisarme,білл
 ItemName,black dragon scale mail,обладунок з луски чорного дракона
 ItemName,black dragon scales,луска чорного дракона
@@ -2425,7 +2425,7 @@ ItemName,cloak of displacement,плащ зміщення
 ItemName,cloak of invisibility,плащ невидимості
 ItemName,cloak of magic resistance,плащ стійкості до магії
 ItemName,clove of garlic,зубчик часнику
-ItemName,club,дубина
+ItemName,club,кийок
 ItemName,Colossal Excavator,Великий Землекоп
 ItemName,cornuthaum,корнутхаум
 ItemName,cram ration,галетний пайок
@@ -2522,7 +2522,7 @@ ItemName,grey dragon scales,луска сірого дракона
 ItemName,Grimtooth,Могильне Ікло
 ItemName,guisarme,гвізарма
 ItemName,halberd,алебарда
-ItemName,Harbalest,
+ItemName,Harbalest,Арбаліста
 ItemName,hatchet,сокирка
 ItemName,hawaiian shirt,гавайська сорочка
 ItemName,heavy hammer,важкий молот
@@ -2611,7 +2611,7 @@ ItemName,mithril sabre,митрилова шабля
 ItemName,mithril shield,митриловий щит
 ItemName,mithril short sword,митриловий короткий меч
 ItemName,mithril spear,митриловий гарпун
-ItemName,mithril two-handed sword,
+ItemName,mithril two-handed sword,митриловий дворучний меч
 ItemName,mithril whip,митриловий батог
 ItemName,morning star,моргенштерн
 ItemName,mummy wrapping,бинти мумії
@@ -2640,7 +2640,7 @@ ItemName,Pandora's Box,Скриня Пандори
 ItemName,panic boots,ботинки паніки
 ItemName,partisan,протазан
 ItemName,pear,груша
-ItemName,phantom key,
+ItemName,phantom key,ключ привіда
 ItemName,Philosophers Stone,Філосьфський камінь
 ItemName,pick-axe,кирка
 ItemName,pistol,пістолет
@@ -2731,7 +2731,7 @@ ItemName,rubber hose,гумовий шланг
 ItemName,ruby,рубін
 ItemName,ruby key,рубіновий ключ
 ItemName,Runesword,рунічний меч
-ItemName,sack,мішок
+ItemName,sack,торба
 ItemName,saddle,сідло
 ItemName,sandwich,сендвіч
 ItemName,sapphire,сапфір
@@ -2797,7 +2797,7 @@ ItemName,silver mace,срібна булава
 ItemName,silver sabre,срібна шабля
 ItemName,silver short sword,срібний короткий меч
 ItemName,silver spear,срібний спис
-ItemName,silver two-handed sword,
+ItemName,silver two-handed sword,срібний дворучний меч
 ItemName,skeleton key,скелетний ключ
 ItemName,slime mould,слизовик
 ItemName,sling,праща
@@ -2812,7 +2812,7 @@ ItemName,sprig of wolfsbane,паросток аконіту
 ItemName,stamped letter,лист зі штампом
 ItemName,stick of dynamite,динаміт
 ItemName,stiletto,стилет
-ItemName,stone club,
+ItemName,stone club,кам’яний кийок
 ItemName,studded leather armour,клепано шкіряний обладунок
 ItemName,submachine gun,пістолет-кулемет
 ItemName,Sunsword,Меч Сонця
@@ -2822,7 +2822,7 @@ ItemName,thunder staff,посох грому
 ItemName,tin,консерви
 ItemName,tin whistle,олов'яний свисток
 ItemName,tinning kit,набір для консервування
-ItemName,tooled horn,тиснений горн
+ItemName,tooled horn,тиснений ріг
 ItemName,topaz,топаз
 ItemName,torch,факел
 ItemName,tortilla,тортилья
@@ -4200,10 +4200,10 @@ SkillCategoryName,defensive,захисні
 SkillCategoryName,mystical,містичні
 SkillCategoryName,offensive,наступальні
 SkillCategoryName,utility,допоміжні
-SkillDescription,The art of unlocking by manipulating the components of a locked device with the aid of lock picks.,Мистецтво зламу - це вміння управляти механізмом замка за допомогою відмички.
+SkillDescription,The art of unlocking by manipulating the components of a locked device with the aid of lock picks.,Мистецтво зламу - це вміння впоратися з механізмом замка за допомогою відмички.
 SkillName,abjuration,зречення
 SkillName,axe,сокири
-SkillName,bartering,
+SkillName,bartering,торгівля
 SkillName,boomerang,бумеранги
 SkillName,bow,луки
 SkillName,clerical,жрецтво
@@ -4229,7 +4229,7 @@ SkillName,locks,злом
 SkillName,mace,булави
 SkillName,medium armour,середні обладунки
 SkillName,medium blade,середні клинки
-SkillName,music,
+SkillName,music,музика
 SkillName,necromancy,некромантія
 SkillName,pick,копання
 SkillName,polearm,держакова зброя
@@ -4260,12 +4260,12 @@ SonicName,broken lock,вибивають замок
 SonicName,bugle,ріжок
 SonicName,burble,бурмотіння
 SonicName,burn,горіння
-SonicName,buzz,дзижчання
+SonicName,buzz,дззз
 SonicName,cackle,квокче
 SonicName,chant,виспів
 SonicName,chime,дзвіночок
 SonicName,chirp,тріскоче
-SonicName,clank,бряжчить
+SonicName,clank,брязкіт
 SonicName,close door,зачинились двері
 SonicName,cluck,квохтання
 SonicName,coins,монети
@@ -4325,7 +4325,7 @@ SonicName,miss,мимо
 SonicName,moan,стогін
 SonicName,moo,мууу
 SonicName,neigh,іржання
-SonicName,oink,
+SonicName,oink,хрю
 SonicName,open door,відкрилися двері
 SonicName,pick-axe,кирка
 SonicName,pistol fire,постріл з пістолета
@@ -4349,8 +4349,8 @@ SonicName,shotgun blast,постріл дробовика
 SonicName,shotgun burst,дробовика розірвало
 SonicName,shriek,верещить
 SonicName,sigh,зітхає
-SonicName,sizzle,
-SonicName,slime,хлюпоче
+SonicName,sizzle,шкварчання
+SonicName,slime,хлюпає
 SonicName,sling shot,постріл із пращі
 SonicName,slip,слизь
 SonicName,snarl,гарчання
@@ -4370,7 +4370,7 @@ SonicName,tool,інструмент
 SonicName,trumpet,труба
 SonicName,tunnelling,копання тунелю
 SonicName,turnbased,покроково
-SonicName,wailing,чекає
+SonicName,wailing,виє
 SonicName,wand,паличка
 SonicName,warping,скручування
 SonicName,water crash,падіння у воду
