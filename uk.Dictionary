@@ -1089,7 +1089,7 @@ EffectType,replicate asset,копіює цінність
 EffectType,restock,поновлює асортимент
 EffectType,restore ability,відновлює характеристику
 EffectType,rumour,чутка
-EffectType,sacrifice,приносить в жертву
+EffectType,sacrifice,приносить жертву
 EffectType,sanctify,освячує
 EffectType,searching,шукає
 EffectType,sleep,спить
@@ -2223,14 +2223,14 @@ ItemDescription,"A thick leather coat, constructed to withstand weather and wear
 ItemDescription,"A thick wooden bludgeon. What it lacks in style, it makes up for in function.",
 ItemDescription,A thin and agile sword meant almost exclusively for thrusting.,
 ItemDescription,"A two-handed firearm, steadied at the shoulder, often used in small game hunting. It packs quite a punch.",
-ItemDescription,"A wonder of dwarven ingenuity and craftsmanship, stolen and repurposed by orcs. Mounted on a long shaft, this tool is a formidable weapon on horseback or warg-back. The electrical current that powers its drill will occasionally discharge on whomever is willing to stand in the way of this monstrosity.",
+ItemDescription,"A wonder of dwarven ingenuity and craftsmanship, stolen and repurposed by orcs. Mounted on a long shaft, this tool is a formidable weapon on horseback or warg-back. The electrical current that powers its drill will occasionally discharge on whomever is willing to stand in the way of this monstrosity.","Диво дварфської інженерної думки, вкрадене орками і застосоване для нового призначення. Страшна зброя, коли застосована верхи з коня чи варга. Електричний струм, що живить її свердло, інколи дає розряд на того, хто наважиться стояти на шляху цього страхопудла."
 ItemDescription,Agricultural implement consisting of a long curving blade and fastened to an angled handle.,
-ItemDescription,An ambiguous curiosity. It seems edible.,
+ItemDescription,An ambiguous curiosity. It seems edible.,"Неоднозначна цікавка.Здається, воно їстівне."
 ItemDescription,An article of leather clothing covering the torso that hangs around the neck and on the shoulders.,
 ItemDescription,An article of waterproof cotton clothing covering the torso that hangs around the neck and on the shoulders.,
-ItemDescription,An elven travel food. It is incredibly satiating.,
+ItemDescription,An elven travel food. It is incredibly satiating.,Ельфійський дорожній припас. Дуже поживний.
 ItemDescription,An extremely sharp little blade used for precise incisions.,
-ItemDescription,An inconspicuous snack that tells deep secrets.,
+ItemDescription,An inconspicuous snack that tells deep secrets.,"Непримітна закуска, що розкриває глибокі таємниці."
 ItemDescription,An iron projectile made up of a shaft with a sharpened square-pyramid tip.,
 ItemDescription,"An orange root-vegetable, commonly believed to improve eyesight.",
 ItemDescription,"Boiled leather, moulded into a bodily shape to be donned as light armour.",
@@ -3826,7 +3826,7 @@ MotionPastName,refilled,знову наповнив
 MotionPastName,released,випущено
 MotionPastName,renamed,перейменував
 MotionPastName,rubbed,потер
-MotionPastName,sacrificed,приніс в жертву
+MotionPastName,sacrificed,приніс у жертву
 MotionPastName,sat,сидів на:
 MotionPastName,scried,погадав
 MotionPastName,set,встановив
@@ -3861,7 +3861,7 @@ MotionPresentName,refill,наповнити
 MotionPresentName,release,випустити
 MotionPresentName,rename,перейменувати
 MotionPresentName,rub,потерти
-MotionPresentName,sacrifice,принести в жертву
+MotionPresentName,sacrifice,принести жертву
 MotionPresentName,scry,поворожити
 MotionPresentName,set,встановити
 MotionPresentName,sit,сісти
