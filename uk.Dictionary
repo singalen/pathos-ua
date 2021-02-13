@@ -389,7 +389,7 @@ AttributeBad,repulsive,відштовхуючий
 AttributeBad,stupid,тупий
 AttributeBad,weak,слабкий
 AttributeCode,CHA,ЧАР
-AttributeCode,CON,БУД
+AttributeCode,CON,СТА
 AttributeCode,DEX,СПР
 AttributeCode,INT,ІНТ
 AttributeCode,STR,СИЛ
@@ -1017,10 +1017,10 @@ EffectType,charging,заряджає
 EffectType,charm,причарування
 EffectType,clone character,клонує персонажа
 EffectType,concealing,приховує
-EffectType,convert asset,переводить цінності
-EffectType,convert boulder,переводить брили
-EffectType,convert fixture,переводить механізм
-EffectType,convert floor,перетворити підлогу
+EffectType,convert asset,перетворює цінність
+EffectType,convert boulder,перетворює брилу
+EffectType,convert fixture,перетворює механізм
+EffectType,convert floor,перетворює підлогу
 EffectType,create asset,створює цінність
 EffectType,create boulder,створює брилу
 EffectType,create entity,створює істоту
@@ -1279,7 +1279,7 @@ EntityName,byakhee,бьякі
 EntityName,captain,капітан
 EntityName,carnivorous ape,хижа мавпа
 EntityName,carrion crawler,що повзає падальник
-EntityName,caterwaul,котячий виття
+EntityName,caterwaul,которваул
 EntityName,catoblepas,катоблепас
 EntityName,cave spider,печерний павук
 EntityName,cave troll,печерний троль
@@ -1576,7 +1576,7 @@ EntityName,Lord Surtur,Лорд Суртур
 EntityName,lurker above,скритень
 EntityName,lynx,рись
 EntityName,maggot,личинка
-EntityName,manes,мейн
+EntityName,manes,мейни
 EntityName,mangler,кромсатель
 EntityName,marid,марід
 EntityName,marilith,мариля
@@ -1590,8 +1590,8 @@ EntityName,mastodon,мастодонт
 EntityName,Maugneshaagar,Могнешаагар
 EntityName,medusa,медуза
 EntityName,merchant,торговець
-EntityName,migo drone,мі-го-трутень
-EntityName,migo queen,мі-го-королева
+EntityName,migo drone,трутень мі-го
+EntityName,migo queen,королева мі-го
 EntityName,migo warrior,мі-го-воїн
 EntityName,mind flayer,пожирач розуму
 EntityName,Minion of Huhetotl,Міньйон Хухетотля
@@ -2042,7 +2042,7 @@ FormatText,{SizeName} {DietName} {MaterialName} {AnatomyFlags},{SizeName} {DietN
 FormatText,{SkillName} [{QualificationCode}],{SkillName} [{QualificationCode}]
 FormatText,{Source:AssetName} was converted to {Target:AssetName},{Source:AssetName} було перетворено на {Target:AssetName}
 FormatText,{StrikeName} digestion,{StrikeName} травлення
-FormatText,{StrikeName} strike,{StrikeName} удар
+FormatText,{StrikeName} strike,{StrikeName} дотик
 FormatText,{Thief:CharacterName} stole {AssetName} from {Victim:CharacterName},{Thief:CharacterName} краде {AssetName} у {Victim:CharacterName}
 FormatText,{WeightUnits} kg,{WeightUnits} кг
 FormatText,{WeightUnits} lbs,{WeightUnits} фунтів
@@ -2142,7 +2142,7 @@ HordeName,kobold,кобольд
 HordeName,lemure,лемур
 HordeName,lizardman,ящерколюд
 HordeName,louse,воша
-HordeName,mane,грива
+HordeName,mane,мейн
 HordeName,migo,мі-го
 HordeName,mould,цвіль
 HordeName,ogre,огр
@@ -3066,7 +3066,7 @@ LiteralText,BLINK,ТЕЛЕПОРТУ
 LiteralText,Blink which direction?,Куди телепортуватися?
 LiteralText,block,клітина
 LiteralText,BLOCKED,заблоковано
-LiteralText,BLOCKS,БЛОКУЄ
+LiteralText,BLOCKS,БЛОКИ
 LiteralText,BOONS,ДАРИ
 LiteralText,boost attack by enchantment,магічне посилення атаки
 LiteralText,boost damage by enchantment,магічне збільшення ушкоджень
@@ -3206,7 +3206,7 @@ LiteralText,DISCONNECT,ВІД’ЄДНАТИСЯ
 LiteralText,Discuss on Reddit,Обговорюйте на Reddit
 LiteralText,dismantle items to extract the base materials and raw essence,витяг з предметів основних матеріалів і есенцій
 LiteralText,DISMISS,ВИГНАТИ
-LiteralText,DISMOUNT,поспішаючи
+LiteralText,DISMOUNT,зпішитися
 LiteralText,Dismount which direction?,В який бік спішитися?
 LiteralText,Display dice rolls in the help,Показувати кидання кубікив в довідці
 LiteralText,DIVINED,ДУХОВНІСТЬ ВИЗНАЧЕНО
@@ -4001,7 +4001,7 @@ PropertyName,teleportation,телепортація
 PropertyName,tunnelling,прокладка тунелів
 PropertyName,unchanging,незмінюваність
 PropertyName,vitality,життєва сила
-PropertyName,warning,попередження
+PropertyName,warning,передчуття
 PunishmentDescription,A heavy iron ball is attached to you by a chain.,До вас ланцюгом прикута важка залізна куля.
 PunishmentDescription,All your knowledge has disappeared and retaining new information has become impossible.,"Усі ваші знання зникли, а запам'ятати нову інформацію стало неможливо."
 PunishmentDescription,Everything you touch will quite literally turn into gold.,"Все, чого ви торкаєтеся, буквально перетворюється на золото"
