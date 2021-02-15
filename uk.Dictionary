@@ -51,7 +51,7 @@ AppearanceName,bronze book,бронзова книжка
 AppearanceName,bronze ring,бронзова каблучка
 AppearanceName,bronze wand,бронзова паличка
 AppearanceName,brown potion,коричневе зілля
-AppearanceName,bubbly potion,шипуче зілля
+AppearanceName,bubbly potion,ігристе зілля
 AppearanceName,bugle,труба
 AppearanceName,candle,свічка
 AppearanceName,canvas book,полотняна книжка
@@ -504,7 +504,7 @@ BoonName,replicate,реплікувати
 BoonName,scribe,переписати
 BoonName,skeleton crew,команда скелетів
 BoonName,teach spell,навчити закляття
-BoonName,tinned meat,консервоване м’ясо
+BoonName,tinned meat,м'ясні консерви
 BoonName,undead army,армія мерців
 BoonName,unicorn friend,друг-єдиноріг
 BoonName,zombie slaves,зомбі-раби
@@ -833,7 +833,7 @@ CounterName,prays,карає
 CounterName,punishments,покарань
 CounterName,quaffs,випиває
 CounterName,reads,читає
-CounterName,reclines,відкидається
+CounterName,reclines,приліг
 CounterName,refills,доповнює
 CounterName,releases,випускає
 CounterName,renames,перейменувує
@@ -1330,7 +1330,7 @@ EntityName,disenchanter,знімає чари
 EntityName,disgusting mould,мерзенна цвіль
 EntityName,disintegrator,дезінтегратор
 EntityName,Dispater,Діспатер
-EntityName,displacer beast,що вислизає звір
+EntityName,displacer beast,дісплейсер
 EntityName,djinni,джин
 EntityName,Doctor Frankenstein,Доктор Франкенштейн
 EntityName,dog,собака
@@ -1386,7 +1386,7 @@ EntityName,fledgling raven,неоперене вороненя
 EntityName,flesh golem,голем з плоті
 EntityName,floating eye,літуче око
 EntityName,fog cloud,листотуманне
-EntityName,forest centaur,лісової кентавр
+EntityName,forest centaur,лісовий кентавр
 EntityName,fox,лисиця
 EntityName,Frankenstein's Monster,Монстр Франкенштейна
 EntityName,freezing sphere,крижана сфера
@@ -3821,7 +3821,7 @@ MotionPastName,played,зіграв
 MotionPastName,prayed,помолився
 MotionPastName,quaffed,випив
 MotionPastName,read,прочитав
-MotionPastName,reclined,
+MotionPastName,reclined,приліг
 MotionPastName,refilled,знову наповнив
 MotionPastName,released,випущено
 MotionPastName,renamed,перейменував
@@ -3856,7 +3856,7 @@ MotionPresentName,play,зіграти
 MotionPresentName,pray,молитися
 MotionPresentName,quaff,випити
 MotionPresentName,read,читати
-MotionPresentName,recline,
+MotionPresentName,recline,прилягти
 MotionPresentName,refill,наповнити
 MotionPresentName,release,випустити
 MotionPresentName,rename,перейменувати
