@@ -2166,18 +2166,18 @@ ItemDescription,"A collection of utensils, including empty tins and butchering t
 ItemDescription,A compact hand-held firearm.,Компактна ручна вогнепальна зброя.
 ItemDescription,"A curved single-edged blade often used by cavalry, especially effective against creatures of the netherworld.",
 ItemDescription,"A curved yellow fruit, and a great source of fibre.","Округлий фрукт, чудове джерело клітчатки."
-ItemDescription,"A flat throwing weapon made of wood, often used for hunting.",
-ItemDescription,"A flat, round cake. Cooked in a pan, as you might presume.",
-ItemDescription,A foreign device which creates perfect visual depictions of reality.,
+ItemDescription,"A flat throwing weapon made of wood, often used for hunting.","Пласка дерев’яна метальна зброя, зазвичай використовується на полюванні."
+ItemDescription,"A flat, round cake. Cooked in a pan, as you might presume.","Плаский круглий пиріг. Випікається у сковорідці, як ви, напевно, здогадалися."
+ItemDescription,A foreign device which creates perfect visual depictions of reality.,"Імпортний прилад, що створює ідеальні зображення дійсності."
 ItemDescription,A hand-held brass horn.,Ручний мідний горн.
-ItemDescription,"A hard rock, smooth and therefore aerodynamic.",
+ItemDescription,"A hard rock, smooth and therefore aerodynamic.","Камінюка, гладка і через це аеродинамічна."
 ItemDescription,A hardwood pole. It is an unassuming but formidable weapon in trained hands.,"Дрючок з твердого дерева. Без претензій, але стає грізною зброєю у вмілих руках."
-ItemDescription,"A hearty, multi-portioned and nutritious vegetarian meal.",
+ItemDescription,"A hearty, multi-portioned and nutritious vegetarian meal.","Добра, поживна вегетарианська їжа, декілька порцій."
 ItemDescription,"A heavy and long double-edged blade. Similar to a long sword, scaled-up specifically for two-handed usage.",
 ItemDescription,A heavy iron hammer designed specifically for use in melee combat.,"Важкий залізний молот, розроблений спеціально для ближнього бою."
 ItemDescription,A heavy suit of armour made up of many strips of metal.,
 ItemDescription,"A horizontal, mechanically-aided bow and arrow with a shoulder stock.",
-ItemDescription,A key designed to open all mundane locks.,
+ItemDescription,A key designed to open all mundane locks.,"Ключ, що спроектований відкривати усі звичайні замки."
 ItemDescription,"A leather pouch set between two cords, meant for launching small projectiles.",
 ItemDescription,"A lightweight protective panel strapped to the forearm, made from wood with metal reinforcement.",
 ItemDescription,"A long iron knife with a sharp tip, weighted for throwing.","Довгий залізний ніж, добре збалансований для метання."
@@ -2218,7 +2218,7 @@ ItemDescription,"A surviving portion of the legendary wall of Verimurus, an anci
 ItemDescription,"A sweet citrus fruit, coloured eponymously.",
 ItemDescription,"A sweet custard-filled pie with a thin crust, topped with whipped cream.",
 ItemDescription,"A sweet, round fruit, of the red variety. Reportedly a great supplement to your physical health.",
-ItemDescription,"A tall, asymmetric bow.",
+ItemDescription,"A tall, asymmetric bow.","Високий асиметричний лук."
 ItemDescription,"A thick leather coat, constructed to withstand weather and wear.",
 ItemDescription,"A thick wooden bludgeon. What it lacks in style, it makes up for in function.",
 ItemDescription,A thin and agile sword meant almost exclusively for thrusting.,
@@ -2833,8 +2833,8 @@ ItemName,tsurugi,цуруги
 ItemName,turquoise,бірюза
 ItemName,two-handed sword,дворучний меч
 ItemName,unicorn horn,ріг єдинорога
-ItemName,vegetable corpse,
-ItemName,Verimurus,
+ItemName,vegetable corpse,труп овоча
+ItemName,Verimurus,Верімарус
 ItemName,violet glass bauble,фіолетова скляна дрібничка
 ItemName,Voltaic,Вольтаїк
 ItemName,voulge,вульж
@@ -2905,7 +2905,7 @@ ItemType,food,їжа
 ItemType,gem,самоцвіт
 ItemType,gloves,рукавички
 ItemType,helmet,шолом
-ItemType,instrument,
+ItemType,instrument,інструмент
 ItemType,letter,лист
 ItemType,light,світло
 ItemType,lockpick,відмичка
@@ -2950,7 +2950,7 @@ KindName,devourer,поглиначі
 KindName,dog,псові
 KindName,dragon,дракони
 KindName,dwarf,дварфи
-KindName,echo,
+KindName,echo,ехо
 KindName,elemental,елементалі
 KindName,elf,ельфи
 KindName,eye,злоокі
@@ -3195,9 +3195,9 @@ LiteralText,difficulty,складність
 LiteralText,disable ambient sounds,вимкнути звуки довкілля
 LiteralText,Disable auto save on transition,вимкнути автосейв при переході
 LiteralText,Disable button tap sounds,Вимкнути звуки клавіш
-LiteralText,Disable conclusion boom,Вимкнути 'бум' у кінці
+LiteralText,Disable conclusion boom,Вимкнути 'бум' наприкінці
 LiteralText,disable haptic feedback,вимкнути вібрацію
-LiteralText,Disable idle animations,
+LiteralText,Disable idle animations,вимкнути анімації очікування
 LiteralText,Disable introduction boom,Вимкнути 'бум' на початку
 LiteralText,Disable online services,Вимкнути онлайн сервіси
 LiteralText,Disable pitch shifting,Вимкнути зміну тону звуку
@@ -3256,7 +3256,7 @@ LiteralText,escape with,уникнути за допомогою
 LiteralText,escaped,вийшов
 LiteralText,ESCAPED,ВИЙШОВ
 LiteralText,ESSENCE,ЕСЕНЦІЯ
-LiteralText,evolution,
+LiteralText,evolution,еволюція
 LiteralText,except replica,окрім реплік
 LiteralText,EXCHANGE,ОБМІН
 LiteralText,EXIT PATHOS,ВИЙТИ З PATHOS
@@ -3374,7 +3374,7 @@ LiteralText,KNOWLEDGE,ЗНАННЯ
 LiteralText,Labyrinth,Лабіринт
 LiteralText,LANGUAGE,МОВА
 LiteralText,LEARN ALL SPELLS,ВИВЧИТИ ВСІ ЗАКЛИНАННЯ
-LiteralText,learn spells,
+LiteralText,learn spells,вивчити закляття
 LiteralText,LEFT RING,ЛІВИЙ ПЕРСТЕНЬ
 LiteralText,LEVEL CHART,ТАБЛИЦЯ РІВНІВ
 LiteralText,level//depth,рівень
@@ -3413,7 +3413,7 @@ LiteralText,Map,Мапа
 LiteralText,MAP,МАПА
 LiteralText,material,матеріал
 LiteralText,Medusa Lair,Гніздо Медузи
-LiteralText,MENU,
+LiteralText,MENU,МЕНЮ
 LiteralText,mercenary,найманці
 LiteralText,MIMIC,МІМІКРУЙ
 LiteralText,mimicking,мімікувати
@@ -3455,7 +3455,7 @@ LiteralText,no resistances,нема стійкості
 LiteralText,no talents,немає талантів
 LiteralText,no transient effects,немає тимчасових ефектів
 LiteralText,no-blood,без крові
-LiteralText,no-eyes,
+LiteralText,no-eyes,без очей
 LiteralText,no-feet,без ніг
 LiteralText,no-hands,без рук
 LiteralText,no-head,без голови
@@ -3595,7 +3595,7 @@ LiteralText,SAVED ADVENTURES,ЗБЕРЕЖЕНІ ПРИГОДИ
 LiteralText,SAVED BONES,ЗБЕРЕЖЕНІ КІСТКИ
 LiteralText,scrap,розібрати
 LiteralText,SCRAP,РОЗІБРАТИ
-LiteralText,SEALED,
+LiteralText,SEALED,ЗАКОРКОВАНО
 LiteralText,Search,Шукати
 LiteralText,Search how many turns?,Шукати скільки ходів?
 LiteralText,SEARCHING,ПОШУК
@@ -3667,7 +3667,7 @@ LiteralText,talents,таланти
 LiteralText,TALENTS,ТАЛАНТИ
 LiteralText,TELEPORT,ТЕЛЕПОРТ
 LiteralText,Teleport to where?,Переміститися куди?
-LiteralText,TERMINAL,
+LiteralText,TERMINAL,ТЕРМІНАЛ
 LiteralText,terrain,земля
 LiteralText,The attack score is your aptitude for hitting an opponent.,Індекс атаки - це ваша спроможність влучити по супротивникові.
 LiteralText,The challenge is to improve the mechanics while retaining the essence of what makes it the greatest game of all time.,"Виклик полягає в тому, щоб поліпшити механіку, зберігши душу того, що є найкращою грою всіх часів."
@@ -3743,13 +3743,13 @@ LiteralText,WAITING,ОЧІКУЮ
 LiteralText,WARPING,УВАГА
 LiteralText,was killed,було вбито
 LiteralText,was strangled,було задушено
-LiteralText,weakness to,
+LiteralText,weakness to,слабкий до
 LiteralText,weight,вага
 LiteralText,when afflicted,коли пороблено
 LiteralText,when dropped,при скиданні
 LiteralText,when entered,при вході
 LiteralText,when exhausted,коли витрачена
-LiteralText,when replica,
+LiteralText,when replica,коли репліка
 LiteralText,when untrapped,при знешкодженні
 LiteralText,WON'T EAT,НЕ ЇСТИМЕ
 LiteralText,WORKBENCH MATERIALS,РОБОЧІ МАТЕРІАЛИ
@@ -3812,7 +3812,7 @@ MotionPastName,divined,визначив духовність
 MotionPastName,drank,випив
 MotionPastName,dug,копає за допомогою:
 MotionPastName,emptied,спустошив
-MotionPastName,exchanged,
+MotionPastName,exchanged,обміняв
 MotionPastName,flashed,блиснув
 MotionPastName,inscribed,підписано
 MotionPastName,opened,відкрив
@@ -3821,7 +3821,7 @@ MotionPastName,played,зіграв
 MotionPastName,prayed,помолився
 MotionPastName,quaffed,випив
 MotionPastName,read,прочитав
-MotionPastName,reclined,приліг
+MotionPastName,reclined,відкинувся
 MotionPastName,refilled,знову наповнив
 MotionPastName,released,випущено
 MotionPastName,renamed,перейменував
@@ -3856,7 +3856,7 @@ MotionPresentName,play,зіграти
 MotionPresentName,pray,молитися
 MotionPresentName,quaff,випити
 MotionPresentName,read,читати
-MotionPresentName,recline,прилягти
+MotionPresentName,recline,відкинутися
 MotionPresentName,refill,наповнити
 MotionPresentName,release,випустити
 MotionPresentName,rename,перейменувати
@@ -4044,9 +4044,9 @@ RaceName,demon//non-binary,демон
 RaceName,dwarf//female,дварфка
 RaceName,dwarf//male,дварф
 RaceName,dwarf//non-binary,дварф
-RaceName,echo//female,
-RaceName,echo//male,
-RaceName,echo//non-binary,
+RaceName,echo//female,еха
+RaceName,echo//male,ехо
+RaceName,echo//non-binary,ехо
 RaceName,elf//female,ельфка
 RaceName,elf//male,ельф
 RaceName,elf//non-binary,ельф
@@ -4059,7 +4059,7 @@ RaceName,giant//non-binary,гігант
 RaceName,gnome//female,гномеса
 RaceName,gnome//male,гном
 RaceName,gnome//non-binary,гном
-RaceName,halfling//female,напівзрослик
+RaceName,halfling//female,напівзросля
 RaceName,halfling//male,напівзрослик
 RaceName,halfling//non-binary,напівзрослик
 RaceName,human//female,людина
@@ -4071,12 +4071,12 @@ RaceName,lizardman//non-binary,людина-ящірка
 RaceName,orc//female,орчиця
 RaceName,orc//male,орк
 RaceName,orc//non-binary,орк
-RaceName,satyr//female,
-RaceName,satyr//male,
-RaceName,satyr//non-binary,
-RaceName,troll//female,
-RaceName,troll//male,
-RaceName,troll//non-binary,
+RaceName,satyr//female,сатирка
+RaceName,satyr//male,сатир
+RaceName,satyr//non-binary,сатир
+RaceName,troll//female,тролиха
+RaceName,troll//male,троль
+RaceName,troll//non-binary,троль
 RecruitmentName,Brief stint,Коротке перебування
 RecruitmentName,Extended trip,Тривала подорож
 RecruitmentName,Long campaign,Довга кампанія
@@ -4454,11 +4454,11 @@ StockName,weapon,зброя
 StrikeName,acid,кислотний
 StrikeName,boost,посилений
 StrikeName,death,смертельний
-StrikeName,energy,
-StrikeName,flame,
+StrikeName,energy,енергія
+StrikeName,flame,полум’я
 StrikeName,flash,сліпучий
 StrikeName,force,силовий
-StrikeName,frost,
+StrikeName,frost,мороз
 StrikeName,gas,газовий
 StrikeName,holy,святий
 StrikeName,magic,чарівний
